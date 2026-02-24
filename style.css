@@ -1,19 +1,19 @@
 .full-name{
     display: flex;
     flex-direction: column;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
 }
 .email{
     display: flex;
     flex-direction: column;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
 }
 .feed-back{
     display: flex;
     flex-direction: column;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: bold;
 }
 .enter-your-name{
@@ -33,4 +33,18 @@ border: 1px solid black;
     height: 101px;
     border-radius: 4px;
     width: 303px;
+}
+.submit{
+    width: 305px;
+    margin-top: 20px;
+    background: blue;
+    color: white;
+    height: 38px;
+    border-radius: 22px;
+}
+.google-form{
+    border: 1px solid black;
+    border-radius: 21px;
+    width: 386px;
+    padding: 16px;
 }
