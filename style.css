@@ -16,3 +16,21 @@
     font-size: 20px;
     font-weight: bold;
 }
+.enter-your-name{
+border: 1px solid black;
+    height: 33px;
+    border-radius: 4px;
+    width: 303px;
+}
+.enter-your-email{
+border: 1px solid black;
+    height: 33px;
+    border-radius: 4px;
+    width: 303px;
+}
+.write-your-feedback{
+    border: 1px solid black;
+    height: 101px;
+    border-radius: 4px;
+    width: 303px;
+}
