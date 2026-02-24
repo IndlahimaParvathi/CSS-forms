@@ -14,3 +14,8 @@
     flex-direction: column;
     font-weight: bold;
 }
+.enter-yours-name{
+border-radius: 3px;
+    border: 1px solid black;
+    width: 267px;
+}
