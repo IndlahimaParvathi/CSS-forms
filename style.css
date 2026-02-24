@@ -23,14 +23,15 @@
     border: 1px solid black;
     width: 354px;
     height: 37px;
+    font-size: 20px;
 }
 
 .enter-your-email {
     border-radius: 3px;
     border: 1px solid black;
-    width: 354
-    px;
+    width: 354px;
     height: 37px;
+    font-size: 20px;
 }
 
 .write-your-feedback {
@@ -38,6 +39,7 @@
     border: 1px solid black;
     width: 354px;
     height: 87px;
+    font-size: 20px;
 }
 
 .google{
