@@ -9,3 +9,8 @@
     flex-direction: column;
     font-weight: bold;
 }
+.feed-back{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
