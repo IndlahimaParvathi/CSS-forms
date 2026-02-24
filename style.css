@@ -28,7 +28,8 @@
 .enter-your-email {
     border-radius: 3px;
     border: 1px solid black;
-    width: 354px;
+    width: 354
+    px;
     height: 37px;
 }
 
@@ -37,4 +38,11 @@
     border: 1px solid black;
     width: 354px;
     height: 87px;
+}
+
+.google{
+        align-items: center;
+    font-size: 23px;
+    font-weight: bold;
+
 }
