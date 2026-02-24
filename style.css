@@ -1,38 +1,40 @@
-.full-name{
+.full-name {
     display: flex;
     flex-direction: column;
     font-weight: bold;
 
 }
-.email{
+
+.email {
     display: flex;
     flex-direction: column;
     font-weight: bold;
 }
-.feed-back{
+
+.feed-back {
     display: flex;
     flex-direction: column;
     font-weight: bold;
 }
-.enter-your-name{
 
-        border-radius: 3px;
+.enter-your-name {
+
+    border-radius: 3px;
     border: 1px solid black;
-    width: 278px;
+    width: 354px;
     height: 37px;
 }
 
-.enter-your-email{
-        border-radius: 3px;
+.enter-your-email {
+    border-radius: 3px;
     border: 1px solid black;
-    width: 278px;
-    height: 37px;
-}
-.write-your-feedback{
-        border-radius: 3px;
-    border: 1px solid black;
-    width: 278px;
+    width: 354px;
     height: 37px;
 }
 
-
+.write-your-feedback {
+    border-radius: 3px;
+    border: 1px solid black;
+    width: 354px;
+    height: 87px;
+}
