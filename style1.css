@@ -46,13 +46,31 @@ display: flex;
     width: 459px;
     height: 31px;
 }
-.roll-a
+.roll-a{
     border: 1px solid black;
     border-radius: 4px;
     width: 459px;
     height: 31px;
 }
 .class-a{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 459px;
+    height: 31px;
+}
+.dateofbirth-a{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 459px;
+    height: 31px;
+}
+.phone-a{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 459px;
+    height: 31px;
+}
+.address-a{
     border: 1px solid black;
     border-radius: 4px;
     width: 459px;
