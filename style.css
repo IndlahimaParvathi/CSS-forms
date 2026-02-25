@@ -62,3 +62,10 @@ border: 1px solid black;
     font-size: 24px;
     font-weight: bold;
 }
+.hima{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+
+}
