@@ -54,6 +54,7 @@ border: 1px solid black;
     border-radius: 21px;
     width: 386px;
     padding: 16px;
+    background: pink;
 }
 .google-a{
     display: flex;
