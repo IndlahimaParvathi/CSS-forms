@@ -40,3 +40,21 @@ display: flex;
     font-weight: bold;
 }
 
+.student-name{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 459px;
+    height: 31px;
+}
+.roll-number{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 459px;
+    height: 31px;
+}
+.class{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 459px;
+    height: 31px;
+}
