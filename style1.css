@@ -1,0 +1,42 @@
+.student-name{
+display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.roll-number{
+display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.class{
+display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.date-of-birth{
+display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.phone{
+display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.address{
+display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    font-weight: bold;
+}
+
