@@ -76,3 +76,10 @@ display: flex;
     width: 459px;
     height: 31px;
 }
+.button-register{
+    margin-top: 12px;
+    width: 459px;
+    height: 35px;
+    border-radius: 4px;
+    background: lightgreen;
+}
