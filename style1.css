@@ -40,19 +40,19 @@ display: flex;
     font-weight: bold;
 }
 
-.student-name{
+.student-a{
     border: 1px solid black;
     border-radius: 4px;
     width: 459px;
     height: 31px;
 }
-.roll-number{
+.roll-a
     border: 1px solid black;
     border-radius: 4px;
     width: 459px;
     height: 31px;
 }
-.class{
+.class-a{
     border: 1px solid black;
     border-radius: 4px;
     width: 459px;
