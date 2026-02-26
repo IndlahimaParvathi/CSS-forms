@@ -101,7 +101,13 @@ display: flex;
 .login-block{
     border: 1px solid black;
     border-radius: 15px;
-    width: 569px;
+    width: 544px;
     padding: 10px;
     background: #d8ead8;
+}
+.hima{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
