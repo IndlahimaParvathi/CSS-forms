@@ -43,42 +43,42 @@ display: flex;
 .student-a{
     border: 1px solid black;
     border-radius: 4px;
-    width: 459px;
+    width: 520px;
     height: 31px;
 }
 .roll-a{
     border: 1px solid black;
     border-radius: 4px;
-    width: 459px;
+    width: 520px;
     height: 31px;
 }
 .class-a{
     border: 1px solid black;
     border-radius: 4px;
-    width: 459px;
+    width: 520px;
     height: 31px;
 }
 .dateofbirth-a{
     border: 1px solid black;
     border-radius: 4px;
-    width: 459px;
+    width: 520px;
     height: 31px;
 }
 .phone-a{
     border: 1px solid black;
     border-radius: 4px;
-    width: 459px;
+    width: 520px;
     height: 31px;
 }
 .address-a{
     border: 1px solid black;
     border-radius: 4px;
-    width: 459px;
+    width: 520px;
     height: 31px;
 }
 .register-button{
     margin-top: 12px;
-    width: 459px;
+    width: 520px;
     height: 35px;
     border-radius: 4px;
     background: lightgreen;
