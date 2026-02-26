@@ -85,7 +85,7 @@ display: flex;
     border: 1px solid black;
     border-radius: 4px;
     width: 520px;
-    height: 31px;
+    height: 83px;
 }
 .register-button{
     margin-top: 12px;
@@ -97,4 +97,11 @@ display: flex;
 .register-form{
     font-size: 30px;
     font-weight: bold;
+}
+.login-block{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 569px;
+    padding: 10px;
+    background: #d8ead8;
 }
