@@ -12,5 +12,13 @@ bio-a{
     height: 25px;
     margin-top: 10px;
 }
+.button-ab{
+   width: 152px;
+    align-items: center;
+    background: bisque;
+    height: 37px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
 
    
