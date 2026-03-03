@@ -5,13 +5,8 @@
     height: 25px;
     margin-bottom: 10px;
 }
-bio-ac{
-    border: 1px solid black;
-    border-radius: 4px;
-    width: 173px;
-    height: 25px;
-    margin-top: 10px;
-}
+
+
 .button-ab{
    width: 152px;
     align-items: center;
@@ -19,6 +14,14 @@ bio-ac{
     height: 37px;
     border-radius: 8px;
     margin-top: 10px;
+}
+.bio-ac{
+    height: 26px;
+    margin-top: 8px;
+    width: 161px;
+    border-radius: 3px;
+    border: 1px solid black;
+
 }
 
 
