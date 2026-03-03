@@ -27,6 +27,14 @@
     align-items: center;
     font-weight: bold;
 }
+.contact form{
+     border: 1px solid black;
+    border-radius: 5px;
+    width: 389px;
+    padding: 20px;
+    align-items: center;
+    background: rgb(168, 224, 224);
+}
 
 
    
