@@ -20,5 +20,13 @@ bio-a{
     border-radius: 8px;
     margin-top: 10px;
 }
+.bio-a{
+  width: 152px;
+    align-items: center;
+    background: bisque;
+    height: 37px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
 
    
